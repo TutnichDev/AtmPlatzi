@@ -10,10 +10,12 @@ class Billete {
     }
 };
 
+
+
 var url = [];
-url["10"] ="imagenes/10pe.jpeg";
-url["50"] ="imagenes/50pe.jpeg";
-url["100"] ="imagenes/100pe.jpeg";
+url["10"] ="https://i.imgur.com/XDiyYPt.jpg";
+url["50"] ="https://imgur.com/WR6WgnG.jpg";
+url["100"] ="https://imgur.com/ZkhllfF.jpg";
 
 // esto es para tener una botonera a la que le pongas el monto a extraer!ª
 var dad = document.getElementById("botoncito");
